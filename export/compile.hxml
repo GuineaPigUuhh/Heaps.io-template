@@ -1,0 +1,8 @@
+# Librarys
+-lib heaps
+
+# Build Configuration
+-cp ../src
+-js ./hello.js
+-main Main
+-debug
