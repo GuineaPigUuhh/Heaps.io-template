@@ -3,6 +3,5 @@
 ./github
 
 # Compilation Items
-./index.html
-./hello.js
-./hello.js.map
+./export/hello.js
+./export/hello.js.map

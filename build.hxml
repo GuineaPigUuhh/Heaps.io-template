@@ -2,7 +2,7 @@
 -lib heaps
 
 # Build Configuration
--cp ../src
--js ./hello.js
+-cp src
+-js ./export/hello.js
 -main Main
 -debug

@@ -14,10 +14,9 @@ if exist hello.js (
     del hello.js.map
 )
 
-echo Compiling...
-haxe compile.hxml
-
 cd ..
+echo Compiling...
+haxe build.hxml
 
 echo Starting the Application...
 if exist index.html (
